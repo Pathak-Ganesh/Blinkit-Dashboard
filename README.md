@@ -62,3 +62,6 @@ Use the interactive slicers to filter data by Category, Product, or Month.
 
 Explore charts & tables to analyze revenue, product performance, and order trends.
 
+![Screenshot 2025-03-27 114300](https://github.com/user-attachments/assets/63e3bfa6-a22c-425b-82d6-c72fa19c320e)
+
+
